@@ -1,0 +1,695 @@
+#fd{
+    height: 100vh;
+    width: 25%;
+    background-color: rgb(236, 236, 236);
+}
+.image{
+    height: 25vh;
+    border-radius: 50%;
+    position: relative;
+    top: 70px;
+    left: 90px;
+}
+#h3{
+    font-family: "Poppins", sans-serif;
+    position: relative;
+    top: 100px;
+    text-align: center;
+    font-size: 25px;
+}
+.ul{
+    list-style: none;
+    text-align: center;
+    position: relative;
+    top: 100px;
+    left: -15px;
+    line-height: 1.7em;
+}
+.h6{
+    position: relative;
+    top: 100px;
+    text-align: center;
+    font-size: 15px;
+}
+.span{
+    color: rgb(119, 188, 211);
+    cursor: pointer;
+}
+li:hover{
+    text-decoration: underline;
+    text-decoration-color: rgb(119, 188, 211);
+    text-decoration-thickness: 2px;
+}
+.href{
+    color: black;
+    text-decoration: none;
+}
+#home{
+    position: relative;
+    left: 300px;
+    height: 98vh;
+}
+#class{
+    position: absolute;
+    top: 250px;
+    left: 400px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+#blockquote{
+    position: absolute;
+    top: 400px;
+    left: 400px;
+}
+#dark{
+    position: relative;
+    top: 150px;
+    right: 590px;
+}
+#about{
+    position: absolute;
+    left: 400px;
+    margin-top: 150px;
+}
+#classes{
+    position: absolute;
+    left: 400px;
+    top: 830px;
+}
+#blockss{
+    font-size: 18px;
+    position: absolute;
+    top: 880px;
+    left: 400px;
+}
+#blocksss{
+    font-size: 18px;
+    position: absolute;
+    top: 980px;
+    left: 400px;
+}
+.box-one{
+    height: 15vh;
+    width: 180px;
+    position: relative;
+    left: 450px;
+    top: 450px;
+    box-shadow: 0 0 2px black;
+    border-bottom: 4px solid royalblue;
+}
+.bulb{
+    position: relative;
+    left: 65px;
+    height: 8vh;
+}
+.box-two{
+    height: 15vh;
+    width: 180px;
+    position: relative;
+    left: 450px;
+    top: 450px;
+    box-shadow: 0 0 2px black;
+    border-bottom: 4px solid red;
+    margin-left: 50px;
+}
+.bulbs{
+    position: relative;
+    left: 73px;
+    top: 15px;
+    height: 5vh;
+}
+#text{
+    position: relative;
+    top: 10px;
+}
+#texts{
+    position: relative;
+    top: 30px;
+}
+.box-three{
+    height: 15vh;
+    width: 180px;
+    position: relative;
+    left: 450px;
+    top: 450px;
+    box-shadow: 0 0 2px black;
+    border-bottom: 4px solid orange;
+    margin-left: 50px;
+}
+.bulbss{
+    position: relative;
+    left: 76px;
+    top: 15px;
+    height: 4vh;
+}
+#textss{
+    position: relative;
+    top: 35px;
+}
+.box-four{
+    height: 15vh;
+    width: 180px;
+    position: relative;
+    left: 450px;
+    top: 450px;
+    box-shadow: 0 0 2px black;
+    border-bottom: 4px solid purple;
+    margin-left: 50px;
+}
+.phone{
+    position: relative;
+    left: 76px;
+    top: 15px;
+    height: 4.5vh;
+}
+.main{
+    display: flex;
+    margin-left: -50px;
+}
+#services{
+    position: relative;
+    top: 550px;
+    margin-left: 400px;
+}
+#classess{
+    position: relative;
+    top: 550px;
+    margin-left: 400px;
+}
+.boxs-one{
+    height: 40vh;
+    width: 210px;
+    position: relative;
+    left: 350px;
+    top: 650px;
+    box-shadow: 0 0 5px black;
+    border-bottom: 4px solid royalblue;
+    margin-left: 50px;
+}
+.blue{
+    height: 20vh;
+    position: relative;
+    top: -60px;
+    left: -8px;
+}
+.buls{
+    position: relative;
+    top: -160px;
+    left: 80px;
+    height: 8vh;
+}
+#idea{
+    font-size: 17px;
+    text-align: center;
+    position: relative;
+    top: -100px;
+}
+#ideas{
+    font-size: 15px;
+    text-align: center;
+    position: relative;
+    top: -90px;
+    line-height: 1.5em;
+}
+.red{
+    height: 20vh;
+    position: relative;
+    top: -60px;
+    left: 40px;
+}
+.mains{
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    left: 50px;
+    margin-right: 500px;
+}
+.boxs-two{
+    height: 40vh;
+    width: 210px;
+    position: relative;
+    left: 350px;
+    top: 650px;
+    box-shadow: 0 0 5px black;
+    border-bottom: 4px solid red;
+    margin-left: 50px;
+}
+.bulss{
+    position: relative;
+    top: -70px;
+    left: -45px;
+    height: 5vh;
+}
+#soft{
+    position: relative;
+    top: -50px;
+    font-size: 17px;
+    text-align: center;
+}
+#softs{
+    font-size: 15px;
+    text-align: center;
+    position: relative;
+    top: -40px;
+    line-height: 1.5em;
+}
+.boxs-three{
+    height: 40vh;
+    width: 210px;
+    position: relative;
+    left: 350px;
+    top: 650px;
+    box-shadow: 0 0 5px black;
+    border-bottom: 4px solid orange;
+    margin-left: 50px;
+}
+.yellow{
+    height: 20vh;
+    position: relative;
+    top: -60px;
+    left: 40px;
+}
+.mob{
+    position: relative;
+    top: -70px;
+    left: -45px;
+    height: 5vh;
+}
+.submain{
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    right: 143px;
+    top: 110px;
+}
+.boxs-four{
+    height: 40vh;
+    width: 210px;
+    position: relative;
+    left: 457px;
+    top: 650px;
+    box-shadow: 0 0 5px black;
+    border-bottom: 4px solid purple;
+    margin-left: 50px;
+}
+.purple{
+    height: 20vh;
+    position: relative;
+    top: -60px;
+    left: 40px;
+}
+.stack{
+    position: relative;
+    top: -70px;
+    left: -62px;
+    height: 5vh;
+}
+.boxs-five{
+    height: 40vh;
+    width: 210px;
+    position: relative;
+    left: 295px;
+    top: 650px;
+    box-shadow: 0 0 5px black;
+    border-bottom: 4px solid rgb(98, 184, 212);
+    margin-left: 50px;
+}
+.light{
+    height: 20vh;
+    position: relative;
+    top: -60px;
+    left: 40px;
+}
+.data{
+    position: relative;
+    top: -70px;
+    left: -44px;
+    height: 4vh;
+}
+.boxs-six{
+    height: 40vh;
+    width: 210px;
+    position: relative;
+    left: 125px;
+    top: 650px;
+    box-shadow: 0 0 5px black;
+    border-bottom: 4px solid green;
+    margin-left: 50px;
+}
+.green{
+    height: 20vh;
+    position: relative;
+    top: -60px;
+    left: 40px;
+}
+#skills{
+    position: relative;
+    top: 890px;
+    margin-left: 400px;
+}
+#sip{
+    position: relative;
+    top: 900px;
+    margin-left: 400px;
+}
+.range1{
+    position: relative;
+    left: 400px;
+    top: 1000px;
+    width: 20%;
+}
+#block{
+    font-size: 18px;
+    position: relative;
+    top: 920px;
+    margin-left: 400px;
+}
+#photo{
+    position: absolute;
+    left: 355px;
+    top: 2490px;
+    font-weight: bold;
+}
+#pho{
+    position: absolute;
+    left: 555px;
+    top: 2492px;
+    font-weight: bold;
+    color: royalblue;
+    font-weight: bold;
+}
+.range2{
+    position: relative;
+    left: 125px;
+    top: 1070px;
+    width: 20%;
+    accent-color: red;
+}
+#html{
+    position: absolute;
+    left: 355px;
+    top: 2565px;
+    font-weight: bold;
+}
+#ht{
+    position: absolute;
+    left: 555px;
+    top: 2562px;
+    font-weight: bold;
+    color: red;
+    font-weight: bold;
+}
+.range3{
+    position: relative;
+    left: -150px;
+    top: 1140px;
+    width: 20%;
+    accent-color: purple;
+}
+#words{
+    position: absolute;
+    left: 355px;
+    top: 2635px;
+    font-weight: bold;
+}
+#word{
+    position: absolute;
+    left: 555px;
+    top: 2635px;
+    font-weight: bold;
+    color: purple;
+    font-weight: bolder;
+}
+.range4{
+    position: relative;
+    left: 25px;
+    top: 1000px;
+    width: 20%;
+    accent-color: rgb(240, 69, 7);
+}
+#querys{
+    position: absolute;
+    left: 805px;
+    top: 2485px;
+    font-weight: bold;
+}
+#query{
+    position: absolute;
+    left: 995px;
+    top: 2488px;
+    font-weight: bold;
+    color: orangered;
+    font-weight: bolder;
+}
+.range5{
+    position: relative;
+    left: 848px;
+    top: 1046px;
+    width: 20%;
+    accent-color: rgb(3, 110, 110);
+}
+#css2{
+    position: absolute;
+    left: 805px;
+    top: 2565px;
+    font-weight: bold;
+}
+#css3{
+    position: absolute;
+    left: 995px;
+    top: 2565px;
+    font-weight: bold;
+    color: teal;
+    font-weight: bolder;
+}
+.range6{
+    position: relative;
+    left: 574px;
+    top: 1120px;
+    width: 20%;
+    accent-color: rgb(45, 145, 170);
+}
+#seos{
+    position: absolute;
+    left: 805px;
+    top: 2635px;
+    font-weight: bold;
+}
+#seo{
+    position: absolute;
+    left: 995px;
+    top: 2635px;
+    font-weight: bold;
+    color: rgb(99, 195, 219);
+    font-weight: bolder;
+}
+#education{
+    position: relative;
+    top: 1200px;
+    margin-left: 400px;
+}
+#sips{
+    position: relative;
+    top: 1210px;
+    margin-left: 400px;
+}
+#div1{
+    position: relative;
+    top: 1200px;
+    margin-left: 400px;
+    width: 65%;
+    height: 8vh;
+}
+#plus{
+    position: relative;
+    left: 570px;
+}
+#div2{
+    position: relative;
+    top: 1160px;
+    margin-left: 400px;
+    width: 65%;
+    height: 8vh;
+}
+#pluss{
+    position: relative;
+    left: 505px;
+}
+#div3{
+    position: relative;
+    top: 1120px;
+    margin-left: 400px;
+    width: 65%;
+    height: 8vh;
+}
+#plu{
+    position: relative;
+    left: 515px;
+}
+#div4{
+    position: relative;
+    top: 1080px;
+    margin-left: 400px;
+    width: 65%;
+    height: 8vh;
+}
+#solid{
+    position: relative;
+    left: 559px;
+}
+#div5{
+    position: relative;
+    top: 1040px;
+    margin-left: 400px;
+    width: 65%;
+    height: 8vh;
+}
+#solids{
+    position: relative;
+    left: 532px;
+}
+#experience{
+    position: relative;
+    top: 1140px;
+    margin-left: 400px;
+}
+#sipss{
+    position: relative;
+    top: 1150px;
+    margin-left: 400px;
+}
+#cont{
+    position: relative;
+    top: 1150px;
+    margin-left: 350px;
+    width: 70%;
+}
+#margin{
+    position: relative;
+    top: 1150px;
+    margin-left: 360px;
+    width: 70%;
+    height: 5vh;
+}
+.blues{
+    position: relative;
+    top: -5px;
+    height: 4vh;
+    width: 50px;
+}
+#margins{
+    position: relative;
+    top: 1270px;
+    margin-left: 360px;
+    width: 70%;
+    height: 5vh;
+}
+.reds{
+    position: relative;
+    top: -5px;
+    height: 4vh;
+    width: 50px;
+}
+#marginss{
+    position: relative;
+    top: 1390px;
+    margin-left: 360px;
+    width: 70%;
+    height: 5vh;
+}
+.greens{
+    position: relative;
+    top: -5px;
+    height: 4vh;
+    width: 50px;
+}
+#padding{
+    position: relative;
+    top: 1510px;
+    margin-left: 360px;
+    width: 70%;
+    height: 5vh;
+}
+.pinks{
+    position: relative;
+    top: -5px;
+    height: 4vh;
+    width: 50px;
+}
+#paddings{
+    position: relative;
+    top: 1630px;
+    margin-left: 360px;
+    width: 70%;
+    height: 5vh;
+}
+.oranges{
+    position: relative;
+    top: -5px;
+    height: 4vh;
+    width: 50px;
+}
+#work{
+    position: relative;
+    top: 1900px;
+    margin-left: 400px;
+}
+#recent{
+    position: relative;
+    top: 1910px;
+    margin-left: 400px;
+}
+.colors{
+    height: 60vh;
+    position: relative;
+    top: 1950px;
+    left: 400px;
+}
+.you{
+    height: 60vh;
+    width: 500px;
+    position: relative;
+    top: 1950px;
+    left: 400px;
+}
+.meet{
+    height: 60vh;
+    width: 387px;
+    position: relative;
+    top: 2340px;
+    left: -495px;
+}
+.kam{
+    height: 60vh;
+    width: 497px;
+    position: relative;
+    top: 1955px;
+    left: 795px;
+}
+#btn{
+    position: relative;
+    top: 1980px;
+    margin-left: 480px;
+}
+#blog{
+    position: relative;
+    top: 2070px;
+    margin-left: 400px;
+}
+#recents{
+    position: relative;
+    top: 2080px;
+    margin-left: 400px;
+}
+.card{
+    position: relative;
+    top: 2100px;
+    left: 400px;
+    margin-left: 20px;
+}
+.mains{
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    left: 30px;
+}
